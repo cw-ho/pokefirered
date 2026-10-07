@@ -335,6 +335,15 @@ Criminals don't play by League rules. Unfiltered angles:
 - **They mock it with their own system.** The syndicate copies the League on purpose — its own ranks, tokens, its own "gyms" (the battle rings). A mirror League.
 - **They own the people who hand them out.** Why respect badges when you can buy the leaders? To the syndicate, a badge is just a receipt.
 
+### The Elite Four as the cleanest group (new — alternative to "E4 = people who run the Island")
+- The **Elite Four are the cleanest people in the story** — genuine, earned-it-by-strength trainers. The last honest thing at the top.
+- **Clearing them = the hero's redemption.** Not power, not access — proving himself to the only people whose respect still means something. The kid with one badge finally finishes what he started.
+- **But not perfectly clean:**
+  - **One E4 member (not the head) is corrupt.** Hidden among the clean ones. Could be the link to Across / the real boss, the one who bought the rival's path, or the one who quietly buries the hero's win.
+  - **The League as an organisation is not that clean.** The E4 are honest; the institution around them isn't — the registry, badge sales, PR, protecting its golden boy (the rival), looking away from dirty Gym Leaders.
+- Contrast: the fighters at the top are clean, the office around them is rotten. The hero earns the E4's respect while the League itself works against him.
+- Battle feel: E4 fights should feel **fair and respectful** — the first fights in the game where nobody cheats. Except one.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
