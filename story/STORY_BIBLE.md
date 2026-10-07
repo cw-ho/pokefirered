@@ -401,6 +401,16 @@ Possible act structure: each act dominated by a different force turning on him (
 - Fits "rival is not a bad person": the rival is the system's best product — he doesn't even know the machine owns him.
 - Candidates from the current cast: Pereira (police), Nadia (League/police), the E4 (League), Sam (syndicate, sort of), Pixel (in-between).
 
+### Possible storyline: the League owns the Syndicate (new — reverse of the above)
+- The League isn't infiltrated by the syndicate — **the League *is* the syndicate's owner.** The crime is the League's business model.
+- **Beat the Elite Four, become the boss.** The Champion seat comes with the keys to the whole operation. Winning the League = being handed the syndicate.
+- Worry: maybe cliché. But:
+  - Pokémon already did a small version — **Giovanni was the Viridian Gym Leader *and* the Rocket boss.** We'd be taking that to its logical end.
+  - The twist lands at the **moment of victory** — the redemption he's been chasing turns into an offer.
+- The big choice: **take the seat or burn it down.** Feeds straight into the endings (the "Boss" ending becomes literal).
+- Could combine with "the E4 is the cleanest group": the E4 fighters are honest and don't know — it's the League *office* / the Champion seat / the corrupt E4 member who runs it.
+- Could combine with Across: the League on the Island owns the syndicate, but the League itself answers to someone Across.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
