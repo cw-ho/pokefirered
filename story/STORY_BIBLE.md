@@ -291,6 +291,17 @@ Both exist side by side — and they can belong to different crews:
 - The police still mostly watch the physical border — they're fighting yesterday's war.
 - The hero, as a driver/runner, starts in the **physical** world and gradually discovers the **digital** one.
 
+### The PC network has checks — how smuggling still gets through (new)
+Realistically, a storage network would be scanned — like email virus scans or automatic content detectors on chat apps. Every transfer is checked. So the smuggling has to beat the scanner:
+
+- **Hiding as legit medical stock.** Etomidate is a *legal* sedative that Pokémon Centers and vet clinics move around every day. The scanner sees routine medical transfers between clinics. The drug hides in plain sight as medicine.
+- **Small amounts, many accounts.** Scanners flag big or unusual transfers. So the product is split into tiny amounts across hundreds of mule accounts (like "structuring" in money laundering). Each one looks innocent.
+- **Disguised / relabelled items.** Pods registered as harmless items (a Potion, a "Calm Mint"). The scanner checks the label, not what's inside.
+- **An insider whitelists accounts.** Someone at the network company is paid to mark certain accounts as "trusted" — never scanned.
+- **Drowning in volume.** Millions of transfers a day; the scanner only catches what it's taught to look for. The syndicate stays one step ahead of the rules.
+- **Off-network boxes — the true dark web.** Pirated / homebrew PC servers outside the official network. No scanning at all — but harder to access, and you have to know someone.
+- **The scanner as a tool.** The police rely on it — and its logs. For the hero, the scan logs are evidence: what got flagged, what got waved through, and who whitelisted it.
+
 ### The real man behind the syndicate is Across (new)
 - The **true head of the syndicate lives Across**. Whoever runs things on the Island (Yeo in the current draft) is only the local operator.
 - Beating the E4 is when the hero **finally has his reason to cross** — he's learned who's really at the top, and the only way to end it is to go over there.
