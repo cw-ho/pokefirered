@@ -195,7 +195,47 @@ Driven by choices and a hidden **Trust/Suspicion** score.
 
 ---
 
-## 10. Open Questions
+## 10. Ideas Board (under discussion — not locked in)
+
+These are alternative angles raised after draft v0.1. Sections 5–8 above still describe the original "undercover cadet" version until we decide.
+
+### Hero — three possible angles
+
+| Angle | Summary | Status |
+|---|---|---|
+| **A. Undercover cadet** | Top Academy cadet, staged expulsion, sent into the syndicate by Pereira. (Current draft.) | Original |
+| **B. Ordinary kid stumbles in** | Normal Pokémon journey in Act 1, then witnesses something / is tricked into carrying a bag. Caught between syndicate and police; Pereira flips him into an informant. | Option |
+| **C. Washed-up hero** | Mid-20s. Once a promising trainer — got Badge 1, then life happened and he quit. Now works in the underground (driver / runner / battle-ring fighter). Already dirty, so Pereira flips him into an informant. Game starts with 1 badge; winning badges = redemption. Old, scarred starter still with him. | **Leading option** |
+
+Possible blend: open with a playable flashback of young hero winning Badge 1 → cut to ten years later (C).
+
+Open on C:
+- [ ] Why did he quit? (debt / sick parent / his own fault / something darker)
+- [ ] Underground job? (driver / debt collector / battle-ring fighter)
+
+### Rival — possible versions
+
+| Version | Summary |
+|---|---|
+| **1. Syndicate mole** | Raised by the syndicate, planted in the police. (Current draft.) |
+| **2. Broken home** | Childhood friend. Bad childhood because of drugs and his father. Father options: (A) Hush addict, (B) small-time dealer jailed/killed — Yeo then "takes care" of the family, (C) dealer who got hooked on his own product. |
+| **3. The Face of the League** | Started out exactly like the hero — same estate, same dream — but everything went smoothly for him. Now the **face of the League**: famous, admired, on posters. |
+
+### Rival idea: the credit-taker (new)
+- Whatever progress the hero makes busting the druglords **somehow ends up credited to the rival**.
+- The hero **works with the rival** and **lets him take all the credit** — the hero can't be seen (cover / record / he's "nobody"), the rival needs the wins.
+- The public sees the rival as the hero of the drug war; the real work is done by a washed-up nobody in the shadows.
+- Pairs naturally with Hero C: one got the dream, one got the gutter — and the gutter is doing the real work.
+
+Questions to explore:
+- [ ] Does the rival know he's taking stolen credit, or is it arranged by someone above (Teo? the League)?
+- [ ] Is the rival clean, compromised, or secretly the syndicate's man? (Can combine with Version 1 / 2.)
+- [ ] Why does the hero accept it — protection, money, friendship, guilt?
+- [ ] When does the hero stop letting him?
+
+---
+
+## 11. Open Questions
 
 - [ ] Title — *Hush*? Something else?
 - [ ] Do we keep the Elite Four, or replace the endgame with the Commission / rooftop only?
