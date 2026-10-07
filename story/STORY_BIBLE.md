@@ -367,6 +367,28 @@ Criminals don't play by League rules. Unfiltered angles:
 - This softens or replaces the earlier "rival = syndicate mole" version. Could keep a lighter version: someone close to him is the mole / he's compromised without knowing.
 - Makes the end harder: no satisfying villain to beat. Two decent guys on opposite sides of a rotten system.
 
+### The three forces (new — core structure)
+The story is a triangle of power: **the Syndicate, the Police, the League.** The hero ends up fighting all three.
+
+| | **The Syndicate** | **The Police** | **The League** |
+|---|---|---|---|
+| **What it wants** | Money, routes, control of the Hush trade | Results, headlines, a winnable drug war | Prestige, public trust, the clean image |
+| **What it fears** | Exposure, the Kingfishers, losing the routes | Looking powerless, its own moles | Scandal |
+| **Its public face** | A respectable logistics boss | The anti-drug campaign on TV | The rival — the golden boy |
+| **Its rot** | Obvious — it's a crime syndicate | Bought officers, buried files | Badge sales, dirty Gym Leaders, one corrupt E4 member |
+| **Its clean core** | Old-school code? Sam's loyalty? | Pereira, Nadia | The Elite Four |
+| **Hero's relationship** | Works for them | Informant / used by them | Washed-up ex-challenger trying again |
+| **Rival's relationship** | (Maybe) funded his path without him knowing | Works alongside / gets their credit | Its poster boy |
+
+**How the forces are tangled together (unfiltered):**
+- **Syndicate ↔ Police** — bribes, informants both ways, raids tipped off. Each has a mole in the other.
+- **Police ↔ League** — the League issues licences the police enforce; the police feed wins to the League's golden boy; joint PR.
+- **Syndicate ↔ League** — bought badges, dirty Gym Leaders, the battle rings as an underground mirror League.
+- **The hero is the only person touching all three** — and the only one none of them fully own.
+- **Across** sits outside the triangle — the real boss there pulls strings on all three sides.
+
+Possible act structure: each act dominated by a different force turning on him (e.g. Act 1 police, Act 2 syndicate, Act 3 League → Across).
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
