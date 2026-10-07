@@ -324,6 +324,17 @@ In the Pokémon world every challenger who wins gets the **same badge** — ther
 - **Special issues.** Some leaders hand out rare, unofficial badges to their inner circle — a black version of the Gym badge that means "one of ours". Only a few exist.
 - **Lean into it as a theme.** Everyone has the same badge, the same uniform, the same face in the crowd — nobody can tell who's real. That's Infernal Affairs in one object.
 
+#### Why would a syndicate care about badges at all? (new — worth thinking about)
+Criminals don't play by League rules. Unfiltered angles:
+
+- **They don't respect badges — they *use* them.** Not respect, utility. A badge-holder can legally carry battle-ready Pokémon and use certain checkpoint lanes. A clean, badged courier is a mule with papers.
+- **They *distrust* badges.** Registered = traceable. Badge-holders are on the League's books, close to the cops. The syndicate prefers **ghosts** with nothing on record.
+  - Twist on the hero: one old badge = perfect low profile. **Every new badge makes him more visible** — to the League, the police, and the syndicate. Progress = exposure.
+- **Strength is the only real currency.** Underground, nobody cares about the metal — only what you show in the rings. Badges are a rumour; a win in front of witnesses is a fact.
+- **Generational split.** The old-school Harbour Line (Yeo) still has a code — some of them were League trainers once and keep a grudging respect for badges. The Kingfishers don't care at all. Old vs. new crime.
+- **They mock it with their own system.** The syndicate copies the League on purpose — its own ranks, tokens, its own "gyms" (the battle rings). A mirror League.
+- **They own the people who hand them out.** Why respect badges when you can buy the leaders? To the syndicate, a badge is just a receipt.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
