@@ -411,6 +411,21 @@ Possible act structure: each act dominated by a different force turning on him (
 - Could combine with "the E4 is the cleanest group": the E4 fighters are honest and don't know — it's the League *office* / the Champion seat / the corrupt E4 member who runs it.
 - Could combine with Across: the League on the Island owns the syndicate, but the League itself answers to someone Across.
 
+### Possible storyline: Across has been taken over by aliens (new — wild card)
+- The mainland, Across, has been **taken over by aliens**.
+- **The "Big League" lie:** past League Champions were sent Across under the pretext of joining a so-called *Big League* — battling other regions' Champions at the highest level.
+- **The truth:** they were **killed**. The aliens **kill their Pokémon and eat them**.
+- Being Champion isn't the top of the ladder — it's being **selected**.
+- Possible ties to the rest of the story (unfiltered):
+  - **Hush has a purpose.** The sedative isn't (only) a street drug — it's how Pokémon are **sedated for transport** across the border. The street trade is a side business / cover / overflow.
+  - **The League knows** (or the top of it does). Sending Champions Across is a deal — tribute in exchange for being left alone. That's why the League protects its golden boy: he's being **fattened up** for the trip.
+  - **The rival is next.** As the face of the League and future Champion, the rival is the one scheduled to be sent. The hero's E4 win could mean *he* goes instead — or he goes after the rival.
+  - **Why Across unlocks after the E4:** Champions are the only ones allowed to cross. Now it makes horrible sense.
+  - **The hero is from Across** — did he escape it as a kid? Did he see what happened?
+  - **The real boss Across** = the aliens, or a human who sold out to them.
+  - **Past Champions' Pokémon** — the missing Champions' old teams, posters in the League hall, a Hall of Fame that's really a memorial nobody knows about.
+- Tone note: this pulls the game from crime noir toward **sci-fi horror**. Could be the third-act rug pull (noir on the Island → horror Across), or too far — decide when filtering.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
