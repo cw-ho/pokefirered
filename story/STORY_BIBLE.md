@@ -275,6 +275,17 @@ Questions to explore:
   - The real boss knows exactly who he is.
 - Conflicts with the "grew up in Ashgrove next to the rival" idea → could become: arrived on the Island young, *then* grew up next to the rival. Keep both open.
 
+### What badges actually mean (new)
+Badges should be more than a ticket to the Elite Four. In a crime noir, a badge is **power, access, or a debt**. Unfiltered options — can mix:
+
+- **Badges = legal licences.** On the Island, League badges carry real legal weight. More badges = more rights: carry battle-ready Pokémon in public, enter restricted zones (port, labs, checkpoint lanes), give testimony, act as a licensed bounty trainer. Eight badges + E4 = the **League Pass** — free movement across the Link. *(This is why Across unlocks after the E4.)*
+- **Badges = endorsements.** A badge means that Gym Leader **vouches for you**. Clean leaders' badges open honest doors; dirty leaders' badges come with strings — you now owe them. Collecting badges = building a network of favours and debts.
+- **Badges = access to secrets.** Every Gym Leader is holding something (records, a ledger, a name). Beating them — or what you do around the fight — is how you get it. Badges double as a trail of evidence.
+- **Badges = underworld currency.** In the battle rings and the syndicate, a badge-holder is worth more: paid more, trusted with bigger jobs, harder for police to touch.
+- **Badges replace HMs as "access".** FireRed already gates field moves by badges — reskin that: instead of Cut/Surf/Strength, each badge unlocks a **place** (port gates, Silvane loading bay, checkpoint lanes, the Strait at night).
+- **The Elite Four = the people who run the Island.** Not just strong trainers — a council of power: e.g. a police commissioner, a pharma CEO, a politician, a media owner. Challenging them = **getting into the room** where decisions are made. Champion = a seat at the table, untouchable. *That's* why the syndicate wants its own man (the rival) as the face of the League.
+- **The badge that matters most is the one he already has.** Badge 1 from ten years ago — the last honest thing he ever earned. (Ties to the badge-case riff.)
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
