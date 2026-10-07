@@ -286,6 +286,33 @@ Badges should be more than a ticket to the Elite Four. In a crime noir, a badge 
 - **The Elite Four = the people who run the Island.** Not just strong trainers — a council of power: e.g. a police commissioner, a pharma CEO, a politician, a media owner. Challenging them = **getting into the room** where decisions are made. Champion = a seat at the table, untouchable. *That's* why the syndicate wants its own man (the rival) as the face of the League.
 - **The badge that matters most is the one he already has.** Badge 1 from ten years ago — the last honest thing he ever earned. (Ties to the badge-case riff.)
 
+#### Each Gym's badge means something different (new)
+Instead of picking one meaning, **every Gym Leader's badge covers a different one** — so each badge feels unique. First pass using the Gym table from section 6:
+
+| # | Gym | Leader | What the badge means | Unlocks |
+|---|---|---|---|---|
+| 1 | Fort Calder | Academy instructor (clean) | **The last honest thing** — won ten years ago. Identity, not power. | Basic licence (already owned at start) |
+| 2 | Lumen Vista | Condo-tower heiress | **Endorsement** — she vouches for you, so the rich kids' world opens up. | Entry to private condos / parties |
+| 3 | Pasir Quay | Port union boss (on payroll) | **A debt** — badge comes with strings; he'll call it in. | Port gates & container yards |
+| 4 | Lantern Row | KTV owner (syndicate front) | **Underworld currency** — your syndicate rank jumps. | The Golden Lantern basement |
+| 5 | Mangrove Bay | Nadia (secret undercover) | **A hidden message** — her badge/case carries something meant for another cop. | The Strait at night (Surf) |
+| 6 | Meridian Central | Silvane board member | **Access to secrets** — records, the leak, the ledger. | Silvane loading bay / restricted floors |
+| 7 | Sera Island | Prof. Seah's old colleague | **The origin** — the truth about where Hush came from. | Sera Research Station |
+| 8 | Greywater | Checkpoint commander | **Legal licence** — checkpoint clearance; one step from the League Pass. | Checkpoint lanes on the Link |
+| E4 | Halcyon HQ | The people who run the Island | **A seat in the room.** | League Pass → **Across** |
+
+*(Order, leaders and pairings all still open — this is just to show the idea works.)*
+
+#### If badges are power, why don't the Gym Leaders covet them? (new)
+Unfiltered answers — can mix:
+
+- **Power is in giving them, not holding them.** A Gym Leader's power is deciding *who gets one*. Like a bank printing money — they don't need to hold it, they control it. Each badge handed out is a favour, a debt, or a door opened.
+- **Badges are registered, not just objects.** Each one is logged to a trainer in the League registry — stealing the metal is pointless. So the real crime is **forging the registry**, and the syndicate runs a fake-badge racket.
+- **Badges are for sale.** Corrupt leaders quietly sell badges to the right people. Maybe **the rival's badges were bought** — his smooth path was paid for. (Ties to riff #5.)
+- **They *do* covet them — each other's.** Gym Leaders are rivals too. A leader who collects influence over other gyms is angling for an **Elite Four seat** — a place in the room. Gym politics = a cold war.
+- **An outsider with eight is a threat.** A nobody collecting all eight badges shifts the balance of power. Leaders either try to **stop** him, **buy** him, or **use** him against each other.
+- **Badges can be revoked.** The League can strip a badge — and with it the licence, the access, the protection. A leader's real weapon isn't giving badges, it's taking them away. Losing a badge mid-story = losing access to an area.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
