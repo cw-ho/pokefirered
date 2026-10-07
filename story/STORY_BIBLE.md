@@ -259,8 +259,29 @@ Questions to explore:
   - The Island fight (Yeo, Teo, the rival) only cuts off one arm. The source — the labs, the money, the real boss — is Across.
   - The reveal of the real boss could come right after (or during) the E4 / Champion moment — at the height of the rival's fame.
   - Across is where Island police have **no jurisdiction** — the hero goes in with no badge, no backup, nobody on his side.
-- [ ] Who is the real boss? (Someone we've already met? Connected to the hero's past, the rival's father, Prof. Seah?)
-- [ ] Does anyone follow him over — the rival, Nadia, Sam?
+- [ ] Who is the real boss? (Someone we've already met? Connected to the hero's past, the rival's father, Prof. Seah?) — *KIV*
+- [ ] Does anyone follow him over — the rival, Nadia, Sam? — *KIV*
+
+### The hero is originally from Across (new — twist)
+- The hero **was born and raised Across**, not on the Island.
+- For some reason he ended up on the Island — and has kept it quiet / half-forgotten / buried.
+- So when Across finally unlocks after the E4, he's not going somewhere new — **he's going home**.
+- He has his own reason to go back, separate from (or tangled up with) the real syndicate boss being there.
+- Possible flavours (unfiltered):
+  - He fled Across as a kid / teen — something happened there.
+  - He was sent over — by family, or by someone who wanted him away.
+  - He came over for the League dream (the Island League is the big one) and never went back.
+  - His family is still over there — or what's left of it.
+  - The real boss knows exactly who he is.
+- Conflicts with the "grew up in Ashgrove next to the rival" idea → could become: arrived on the Island young, *then* grew up next to the rival. Keep both open.
+
+### Riffs (unfiltered — from brainstorm)
+1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
+2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
+3. **The starter.** Old, slow, can't (or won't) evolve. Finally evolves when the hero stops hiding — or dies. Either way, a gut-punch.
+4. **Three records on the trainer card.** Police record / syndicate rank / League standing side by side, changing over the story. Nobody sees all of you.
+5. **Why he quit is tied to the rival.** The rival's smooth path was paid for by someone, at the hero's expense. Makes "letting him take the credit" hurt more later.
+6. **The Champion moment is stolen.** You beat the E4, but the rival is crowned / the fight is covered up / the record says you were never there. Erased at your highest point — that's what sends you Across.
 
 ---
 
