@@ -248,8 +248,19 @@ Questions to explore:
 - Implications to work out:
   - Before the E4, the Link is a place you can reach but not cross — checkpoint scenes, smuggling handoffs, chases that stop at the border.
   - Scenes in the draft set Across (Pereira's meet, the labs, the Kingfishers' base) either move to the Island side, or move post-E4.
-  - [ ] Is Across the **true final act** (story continues after E4), or **post-game**?
+  - [x] Is Across the **true final act** (story continues after E4), or **post-game**? → **True final act** (leaning).
   - [ ] Why does beating the E4 open the border — status, a League pass, the rival's access, someone wants him over there?
+
+### The real man behind the syndicate is Across (new)
+- The **true head of the syndicate lives Across**. Whoever runs things on the Island (Yeo in the current draft) is only the local operator.
+- Beating the E4 is when the hero **finally has his reason to cross** — he's learned who's really at the top, and the only way to end it is to go over there.
+- So the Elite Four becomes the **midpoint / turning point**, not the ending. Across is the final act.
+- Ideas:
+  - The Island fight (Yeo, Teo, the rival) only cuts off one arm. The source — the labs, the money, the real boss — is Across.
+  - The reveal of the real boss could come right after (or during) the E4 / Champion moment — at the height of the rival's fame.
+  - Across is where Island police have **no jurisdiction** — the hero goes in with no badge, no backup, nobody on his side.
+- [ ] Who is the real boss? (Someone we've already met? Connected to the hero's past, the rival's father, Prof. Seah?)
+- [ ] Does anyone follow him over — the rival, Nadia, Sam?
 
 ---
 
