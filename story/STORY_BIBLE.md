@@ -277,6 +277,20 @@ The physical border is almost irrelevant — **the real border is the PC storage
 - **Investigation = tracing boxes.** Part of the hero's work is following accounts, transfers, box names — detective work, not just battles.
 - **Why go Across at all then?** Data crosses freely, people don't need to — but the **servers, the accounts' owners, and the real boss** are physically over there. To end it, someone has to go in person.
 
+### Two smuggling methods: physical vs. digital (new)
+Both exist side by side — and they can belong to different crews:
+
+| | **Physical** | **Digital (the "dark web" of the PC network)** |
+|---|---|---|
+| How | Lorries over the Link, boats over the Strait, hidden compartments | Held items on mule Pokémon, rented PC boxes, hacked/hidden accounts |
+| Who | **Old-school Harbour Line** (Yeo) — routes, drivers, bribed checkpoint officers | **New crew (the Kingfishers)** — apps, mule accounts, no fronts, no loyalty |
+| Risk | Getting caught at the checkpoint, informants | Traces in the logs, account freezes, whoever controls the servers |
+| Gameplay | Chases, crossings, inspections, night boat runs | Investigation: tracing boxes, accounts, transfers |
+
+- The **turf war** between old and new crime is also a war between **old and new methods** — the Kingfishers' digital route is making Yeo's physical routes obsolete.
+- The police still mostly watch the physical border — they're fighting yesterday's war.
+- The hero, as a driver/runner, starts in the **physical** world and gradually discovers the **digital** one.
+
 ### The real man behind the syndicate is Across (new)
 - The **true head of the syndicate lives Across**. Whoever runs things on the Island (Yeo in the current draft) is only the local operator.
 - Beating the E4 is when the hero **finally has his reason to cross** — he's learned who's really at the top, and the only way to end it is to go over there.
