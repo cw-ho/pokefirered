@@ -9,7 +9,7 @@ Names are working names; the hero and rival can be renamed by the player.
 
 ## The Shape in One Paragraph
 
-Marcus quit his trainer journey at fourteen with one badge. At twenty-six he drives a van for a logistics firm and doesn't ask what's in the boxes. When a kid from his block collapses from a Hush pod he recognises, an off-the-books cop flips him into an informant. Every bust Marcus makes is credited to his childhood friend Kai, now the Champion and face of the League's anti-drug campaign. To get close to the people moving Hush, Marcus picks up his old badge case and starts again. Each badge gets him further in, and makes him easier to see. He beats the Elite Four and Kai, and the prize is an invitation Across from the man who owns all of it.
+Marcus quit his trainer journey at fourteen with one badge. At twenty-six he drives a van for a logistics firm and doesn't ask what's in the boxes. When a kid from his block collapses from a Hush pod he recognises, an off-the-books cop flips him into an informant. Every bust Marcus makes is credited to his childhood friend Kai, now the Champion and face of the League's anti-drug campaign. To get close to the people moving Hush, Marcus picks up his old badge case and starts again. Each badge gets him further in, and makes him easier to see. He beats the Elite Four and Kai, and the prize is an invitation from the man across the water who owns all of it.
 
 ---
 
@@ -17,7 +17,9 @@ Marcus quit his trainer journey at fourteen with one badge. At twenty-six he dri
 
 - **Halcyon / the Island**: dense, orderly, harsh drug laws.
 - **Across**: the mainland. Marcus was born there; his family moved to the Island when he was nine, like thousands of families do.
-- **The Link**: the causeway. **Closed two years ago** after the Hush crisis (*"the Shutdown"*). Only approved freight crosses, and only as far as the **bonded depot** on the Across side. Drivers hand over cargo and turn back. Beyond the depot, Across is off-limits to almost everyone.
+- **The Link**: the causeway. Open, busy, and crossed by hundreds of thousands every day: commuters, students, lorries, delivery riders. Marcus crosses it most days for work. It's where most of the game's chases happen.
+- **Bridgehead**: the Across-side border town at the end of the Link. Cheap food, petrol, depots, the syndicate's warehouses. Island police have **no jurisdiction** here.
+- **Across opens up in stages.** Bridgehead is reachable from Act 1. The industrial zone opens in Act 2. Low's territory (the ferry terminal, the Boxline data centre, his estate) only opens in Act 4. Nothing official stops you; you just have no reason or way in until the story gives you one.
 - **Hush**: etomidate. A legitimate Pokémon sedative made by **Silvane Pharmaceuticals** for Pokémon Centers. Sold on the street as laced vape pods.
 - **The PC network**: Bill's storage system, now run by **Boxline**, a company that is part of Low Holdings. Every transfer is scanned. Smuggling still gets through.
 
@@ -73,7 +75,7 @@ Marcus quit his trainer journey at fourteen with one badge. At twenty-six he dri
 
 1. **4:40am, Ashgrove.** Mum asleep. Growlithe at the door. Marcus drives to the Greywater depot. The player's first map is a work commute.
 2. **The depot.** Sam hands out routes. Boxes are sealed. Rules: don't open, don't ask, don't be late.
-3. **The Link.** First crossing to the bonded depot on the Across side. Queue, inspection, the officer who waves Yeo's lorries through. Marcus sees the Across hills beyond the fence and doesn't look long.
+3. **The Link.** First crossing into **Bridgehead**. The 5am queue, motorbikes filtering past, the inspection, the officer who waves Yeo's lorries through. Drop-off at a Bridgehead warehouse. Breakfast at a stall where the auntie knows his order. Marcus drives past the street he lived on until he was nine, and doesn't slow down.
 4. **Lantern Row battle ring.** Weekend fight for cash. Teaches the player that underground battles have no rules (opponents use items, two-on-one fights).
 5. **The kid at the bus stop.** Back in Ashgrove, **Darren**, a fifteen-year-old from Marcus's block, collapses with a pod still in his hand. Marcus recognises the packaging. He delivered that carton.
 6. **Pereira.** The next morning Pereira stops Marcus's van on Ashgrove Road. Finds nothing. Doesn't need to. *"You can keep driving for them, or you can keep driving for them and talk to me."*
@@ -93,11 +95,12 @@ Marcus quit his trainer journey at fourteen with one badge. At twenty-six he dri
 2. **Lantern Row Gym (Badge 4).** The KTV owner, a Harbour Line front. His badge is **underworld currency**: Marcus is promoted from driver to Yeo's trusted runner. Access to the Golden Lantern basement.
 3. **Priya.** A Pokémon Center PC glitches during a routine heal. Priya, fixing it, shows Marcus a box full of identical Rattata, all holding the same item. *"Medical transfer. Clinic to clinic. Scanner passes it every time."* The digital route is revealed.
 4. **The Kingfishers.** Harbour Line drivers get jumped. A turf war starts. Sam is worried: *"They don't fight like a crew. They fight like a company."*
-5. **Mercy Hill.** Darren dies. Funeral at the columbarium. Mum is there; she knew his family. Kai sends flowers with a card from the Anti-Drug campaign. Marcus has to leave.
-6. **Mangrove Bay Gym (Badge 5).** Nadia waves a night boat through, then battles Marcus like she wants him to lose. Afterwards, both independently tip the same boat to their own handlers, and the raid goes to a third party. Each now suspects the other.
-7. **Meridian Central Gym (Badge 6).** A Silvane board member. His badge gives **access to restricted floors** at Silvane. Marcus sees the stock numbers: far more sedative is made than Pokémon Centers could ever use.
-8. **The mole hunt.** Yeo tells his inner circle someone is talking. Teo tells Narcotics that someone is running an asset without a file. Both sides are now looking for Marcus.
-9. **Greywater, night.** Pereira sets up a meet at the depot. Marcus arrives to police tape. **Pereira is dead**, written up as a robbery. His phone is gone.
+5. **The chase.** Marcus's van is hit by Kingfishers in Bridgehead. A chase across the industrial zone and back over the Link, with Kingfisher riders behind him and checkpoint officers ahead. Island police can't follow him in Across, and Across police don't care. **Across's industrial zone opens.**
+6. **Mercy Hill.** Darren dies. Funeral at the columbarium. Mum is there; she knew his family. Kai sends flowers with a card from the Anti-Drug campaign. Marcus has to leave.
+7. **Mangrove Bay Gym (Badge 5).** Nadia waves a night boat through, then battles Marcus like she wants him to lose. Afterwards, both independently tip the same boat to their own handlers, and the raid goes to a third party. Each now suspects the other.
+8. **Meridian Central Gym (Badge 6).** A Silvane board member. His badge gives **access to restricted floors** at Silvane. Marcus sees the stock numbers: far more sedative is made than Pokémon Centers could ever use.
+9. **The mole hunt.** Yeo tells his inner circle someone is talking. Teo tells Narcotics that someone is running an asset without a file. Both sides are now looking for Marcus.
+10. **Greywater, night.** Pereira sets up a meet at the depot. Marcus arrives to police tape. **Pereira is dead**, written up as a robbery. His phone is gone.
 
 **Act 2 ends:** No file, no handler, no proof. Marcus is officially just a driver for a drug syndicate, with six badges on the League registry and his face starting to get noticed.
 
@@ -116,13 +119,13 @@ Marcus quit his trainer journey at fourteen with one badge. At twenty-six he dri
 9. **The Elite Four.** Fair fights. Honest trainers. The first battles in the game where nobody cheats, **except the third member**, who runs the sponsorship office and uses sedated Pokémon that don't flinch. Marcus wins. The whitelist approvals carry his signature.
 10. **The Champion: Kai.** No tricks, no crowd. Two kids from the same block. If Growlithe has the Fire Stone, it evolves into **Arcanine** at the start of this battle.
 
-**Act 3 ends:** Marcus wins. The League office announces that Kai remains Champion: a technical irregularity, the result under review. Marcus doesn't exist, after all. That night, an envelope arrives at Ashgrove: a **Strait Cup invitation**, Champion-class clearance to cross beyond the depot. *"Mr. Low would very much like to meet you."*
+**Act 3 ends:** Marcus wins. The League office announces that Kai remains Champion: a technical irregularity, the result under review. Marcus doesn't exist, after all. That night, an envelope arrives at Ashgrove: a **Strait Cup invitation**, a private exhibition at Low's ferry terminal in Across, open only to Champion-class trainers. *"Mr. Low would very much like to meet you."*
 
 ---
 
 ## Act 4: Across (post-League, final act)
 
-1. **The crossing.** Past the depot for the first time since he was nine. The town he grew up in. The player sees how close the two places were.
+1. **The crossing.** The same Link he drives every day, but this time in a League car with a driver of his own. Past Bridgehead, past the industrial zone, into the part of Across that belongs to Low. **Low's territory opens.**
 2. **His father.** Marcus finds him working nights at a Boxline server farm. Not dead, not a villain, just a man who drove one load too many, got in debt to the wrong people, and stayed. A Hush user. Doesn't recognise Marcus at first.
 3. **Kai crosses too**, as the Champion invited for the Strait Cup exhibition, with his own questions about who paid for his life. For the first time, the two of them work together: Kai in the light, Marcus in the dark.
 4. **Edmund Low.** Lunch at the top of the ferry terminal. Low knows everything: the van, Pereira, Priya, the battles. He isn't angry. *"You know both routes. You beat the Champion. And nobody knows your name. Do you know how rare that is?"* He offers Marcus the Island, the job Yeo had, but the new version.
@@ -183,8 +186,8 @@ Final scene: a year later, an office in Meridian Central. Marcus's phone rings. 
 - Dissidents rubbing off on him: Pereira, Nadia, Priya, Sam, Seah
 - Each badge means something different; progress = exposure
 - Elite Four as the cleanest group, one corrupt member
-- Across unlocks after the E4, with the real boss there; the hero is from Across (ordinary migration, not special)
-- Link closure + bonded depot (applies to everyone)
+- The real boss is Across and only reachable after the E4; the hero is from Across (ordinary migration, not special)
+- Cross-border chases on the Link; Across open in stages (Bridgehead → industrial zone → Low's territory)
 - Physical vs. digital smuggling; PC scanner beaten by medical-transfer disguise and whitelists
 - Old vs. new crime as a corporate restructuring
 - Badge case, rival's press conferences, stolen Champion moment, starter evolving late
