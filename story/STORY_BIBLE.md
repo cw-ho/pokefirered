@@ -233,6 +233,24 @@ Questions to explore:
 - [ ] Why does the hero accept it — protection, money, friendship, guilt?
 - [ ] When does the hero stop letting him?
 
+### Hero vs. everyone (new)
+- Over the course of the story the hero ends up **fighting all three sides**: the **League**, the **syndicate**, and the **police**.
+- Nobody is fully on his side — every faction is at some point an enemy.
+- Ideas for how each fight could happen:
+  - **League** — Gym Leaders on the payroll, the League protecting its golden boy (the rival), the Elite Four.
+  - **Syndicate** — his own crew when his cover cracks, the Kingfishers, Yeo's enforcers.
+  - **Police** — Narcotics raids, checkpoint officers, Teo's people hunting the informant.
+- [ ] Could make a nice structure: each act is dominated by a different side turning on him?
+
+### Across (JB) unlocks after the Elite Four (new)
+- The mainland is **locked until the hero beats the Elite Four**.
+- So the Elite Four stays — and **Across becomes the post-League part of the game** (like Johto/Kanto in Gold).
+- Implications to work out:
+  - Before the E4, the Link is a place you can reach but not cross — checkpoint scenes, smuggling handoffs, chases that stop at the border.
+  - Scenes in the draft set Across (Pereira's meet, the labs, the Kingfishers' base) either move to the Island side, or move post-E4.
+  - [ ] Is Across the **true final act** (story continues after E4), or **post-game**?
+  - [ ] Why does beating the E4 open the border — status, a League pass, the rival's access, someone wants him over there?
+
 ---
 
 ## 11. Open Questions
