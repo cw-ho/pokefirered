@@ -255,14 +255,16 @@ Questions to explore:
 Problem: in a grounded world, ordinary people cross the Link every day — so why does the hero need permission? Options (unfiltered, can combine):
 
 1. ~~**Only *he* can't cross.**~~ *Rejected — implies he was someone special before the game started.*
-2. **Pokémon can't cross.** People cross freely, but **Pokémon need an import/export licence** (like real animal quarantine rules). Without League clearance he'd have to go Across *without his team*. A trainer without his Pokémon is nobody.
+2. ~~**Pokémon can't cross.**~~ *Rejected — Bill's PC storage means Pokémon can be transferred digitally anyway; a border licence is meaningless.*
 3. **The Link is closed.** After a Hush crisis / crackdown / political dispute, the border is **shut to everyone** until further notice — only officials and exempt cases cross (echo of the real causeway closure during the pandemic). The closure is *why* smuggling boomed.
 4. **The border town is open, the rest isn't.** Anyone can cross to the border town; beyond it is a **restricted zone** — industrial zone, private land, the tycoon's territory. Needs clearance.
 5. **Classic pass / ticket**, reskinned (Tri-Pass / Rainbow Pass / S.S. Ticket style) — permission from the people in power.
 
 **Rule: the hero is a nobody at the start.** The lock must apply to everyone, not just him.
 
-Strongest so far: **2** (Pokémon licence — applies to every trainer), possibly **+ 3** or **+ 4**.
+Remaining: **3** (Link closed to everyone), **4** (border town open, rest restricted), **5** (pass).
+
+Side idea from the PC problem: **Bill's PC network as a smuggling channel** — if Pokémon (and items) can be transferred digitally, whoever controls or hacks the storage network controls a border nobody can inspect.
 
 ### The real man behind the syndicate is Across (new)
 - The **true head of the syndicate lives Across**. Whoever runs things on the Island (Yeo in the current draft) is only the local operator.
