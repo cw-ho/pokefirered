@@ -356,6 +356,17 @@ Criminals don't play by League rules. Unfiltered angles:
 - **The evil team isn't defeated by a kid.** In classic games the boss gives up after losing a battle (Giovanni disbands Team Rocket). Here, losing a battle means nothing to a crime boss. Battles don't end crime — consequences do.
 - **The rival is the classic hero.** The rival is living the old Pokémon story: smooth journey, beats the bad guys (on paper), becomes Champion, the face of the League. The hero is living what that story really costs.
 
+### The rival is not a bad person (new)
+- He's **not a villain**. He's a decent guy who got the smooth road — and mostly believes his own story.
+- Angles (unfiltered):
+  - **He doesn't know.** He genuinely thinks he earned it all. The credit is arranged around him by the League / handlers / someone above. Finding out is *his* crisis.
+  - **He half-knows and looks away.** Not evil — just comfortable. The noir sin is not cruelty but **not asking questions**.
+  - **He's a symbol he can't control.** The League built a hero out of him; now he's trapped being the poster boy. As stuck as the hero, just in a nicer cage.
+  - **He genuinely wants to do good.** He believes in the League, the police, the drug war. His good intentions are being used.
+  - **He still cares about the hero.** Childhood friend — maybe the one person who never gave up on him, and keeps offering help the hero can't accept.
+- This softens or replaces the earlier "rival = syndicate mole" version. Could keep a lighter version: someone close to him is the mole / he's compromised without knowing.
+- Makes the end harder: no satisfying villain to beat. Two decent guys on opposite sides of a rotten system.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
