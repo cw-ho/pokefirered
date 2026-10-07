@@ -266,6 +266,17 @@ Remaining: **3** (Link closed to everyone), **4** (border town open, rest restri
 
 Side idea from the PC problem: **Bill's PC network as a smuggling channel** — if Pokémon (and items) can be transferred digitally, whoever controls or hacks the storage network controls a border nobody can inspect.
 
+### Smuggling thrives *because* of Bill's PC (new — strong)
+The physical border is almost irrelevant — **the real border is the PC storage network.**
+
+- **Pokémon as mules.** Pokémon keep their **held items** when deposited/withdrawn. So Hush crosses as a held item on a cheap Pokémon: deposit a Rattata on one side, withdraw it on the other. "Rattata mules." *(Grounded in real game mechanics.)*
+- **Mule accounts.** Ordinary people rent out their PC boxes / accounts for cash — like real-world money-mule bank accounts. Students, delivery riders, aunties who don't ask questions.
+- **The checkpoint is theatre.** Police search lorries at the Link while the real product moves through the PC network untouched. Security theatre — very noir.
+- **Pokémon Centers = distribution points.** Every Center has a PC terminal. The places that heal Pokémon are where the drug is picked up.
+- **Who runs the network?** Whoever owns the storage system (a tech company / Silvane / the tycoon Across) effectively owns the smuggling route. Hard to inspect, needs warrants, records can be wiped.
+- **Investigation = tracing boxes.** Part of the hero's work is following accounts, transfers, box names — detective work, not just battles.
+- **Why go Across at all then?** Data crosses freely, people don't need to — but the **servers, the accounts' owners, and the real boss** are physically over there. To end it, someone has to go in person.
+
 ### The real man behind the syndicate is Across (new)
 - The **true head of the syndicate lives Across**. Whoever runs things on the Island (Yeo in the current draft) is only the local operator.
 - Beating the E4 is when the hero **finally has his reason to cross** — he's learned who's really at the top, and the only way to end it is to go over there.
