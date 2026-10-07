@@ -411,7 +411,9 @@ Possible act structure: each act dominated by a different force turning on him (
 - Could combine with "the E4 is the cleanest group": the E4 fighters are honest and don't know — it's the League *office* / the Champion seat / the corrupt E4 member who runs it.
 - Could combine with Across: the League on the Island owns the syndicate, but the League itself answers to someone Across.
 
-### Possible storyline: Across has been taken over by aliens (new — wild card)
+### Possible storyline: Across has been taken over by aliens (PARKED — probably not canon)
+> Salvageable part: the **"Big League" lie** — Champions sent Across to a so-called Big League, and never seen again. Human version: it's the real bosses' private battle circuit / gambling ring, and losers (and their Pokémon) disappear.
+
 - The mainland, Across, has been **taken over by aliens**.
 - **The "Big League" lie:** past League Champions were sent Across under the pretext of joining a so-called *Big League* — battling other regions' Champions at the highest level.
 - **The truth:** they were **killed**. The aliens **kill their Pokémon and eat them**.
