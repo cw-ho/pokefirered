@@ -344,6 +344,18 @@ Criminals don't play by League rules. Unfiltered angles:
 - Contrast: the fighters at the top are clean, the office around them is rotten. The hero earns the E4's respect while the League itself works against him.
 - Battle feel: E4 fights should feel **fair and respectful** — the first fights in the game where nobody cheats. Except one.
 
+### Flip the classic formula (new — core concept)
+**Classic Pokémon:** a kid sets off to beat the League, and *on the way* happens to save the world from the evil team. The League is the goal; saving the world is the side effect. The kid gets the glory for both.
+
+**Ways to turn it around (unfiltered):**
+- **Swap goal and side effect.** The crime world is the main story; the League run is what happens *on the way*. He's not a trainer who stumbles on crime — he's in crime and stumbles back into training.
+- **He saves the world and nobody knows.** Every syndicate operation he takes down gets credited to the rival / the League / the police. In the old games the kid is a hero; here the hero is invisible. (Ties to the credit-taker idea.)
+- **He's part of the problem first.** The classic hero fights the evil team. Ours *works for* them at the start. He doesn't save the world from the syndicate — he's trying to get himself out of it.
+- **The League run is the cover story.** Collecting badges is the perfect excuse to travel the Island, enter places, meet people. Everyone thinks he's chasing a comeback; really he's chasing something else. (Or the other way round — he tells himself it's for the job, but it's really for the dream.)
+- **The world doesn't get saved by the League.** Classic games end with the Champion title = happy ending. Here, beating the E4 solves nothing — the real problem is Across. The League was never the answer.
+- **The evil team isn't defeated by a kid.** In classic games the boss gives up after losing a battle (Giovanni disbands Team Rocket). Here, losing a battle means nothing to a crime boss. Battles don't end crime — consequences do.
+- **The rival is the classic hero.** The rival is living the old Pokémon story: smooth journey, beats the bad guys (on paper), becomes Champion, the face of the League. The hero is living what that story really costs.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
