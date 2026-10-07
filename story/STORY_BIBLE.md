@@ -389,6 +389,18 @@ The story is a triangle of power: **the Syndicate, the Police, the League.** The
 
 Possible act structure: each act dominated by a different force turning on him (e.g. Act 1 police, Act 2 syndicate, Act 3 League → Across).
 
+### Possible storyline: the Syndicate owns everything (new — alternative to the three-forces triangle)
+- Not three forces — **one**. The Syndicate has **fully infiltrated** the police *and* the League. The triangle is an illusion; every side answers to the same people.
+- The "three forces" are just three faces of the same machine. Fighting the police, the League, or the syndicate is fighting the same enemy.
+- **The dissidents.** Scattered people inside each institution who refuse to go along — a few honest cops, a Gym Leader or E4 member who won't play, someone inside the syndicate who wants out, a journalist, an old trainer.
+  - They're isolated, outnumbered, often crushed.
+  - **Their influence rubs off on the hero.** He doesn't start as a good man — he becomes one gradually, picking something up from each dissident he meets.
+  - Each dissident could leave him something: a lesson, a contact, a piece of evidence, a Pokémon, a line of dialogue that comes back later.
+  - Some of them don't survive. Their loss is what pushes him further.
+- Fits the washed-up hero: no grand calling — just a man worn down by a system, slowly picking up the courage of the people who stood up to it.
+- Fits "rival is not a bad person": the rival is the system's best product — he doesn't even know the machine owns him.
+- Candidates from the current cast: Pereira (police), Nadia (League/police), the E4 (League), Sam (syndicate, sort of), Pixel (in-between).
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
