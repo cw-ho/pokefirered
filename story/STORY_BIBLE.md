@@ -313,6 +313,17 @@ Unfiltered answers — can mix:
 - **An outsider with eight is a threat.** A nobody collecting all eight badges shifts the balance of power. Leaders either try to **stop** him, **buy** him, or **use** him against each other.
 - **Badges can be revoked.** The League can strip a badge — and with it the licence, the access, the protection. A leader's real weapon isn't giving badges, it's taking them away. Losing a badge mid-story = losing access to an area.
 
+#### But badges aren't unique (new — reality check)
+In the Pokémon world every challenger who wins gets the **same badge** — there are thousands of each in circulation. Ways to use that instead of fighting it:
+
+- **A badge alone is cheap. The record is what counts.** Each badge is serial-numbered and logged to a trainer. The metal is common; your **entry in the registry** is the real thing. (Supports the forged-registry racket.)
+- **Badge inflation.** The League hands out badges easily to look successful and keep the public happy — so they mean less and less. Cynical, very noir. Real power has moved up to the **E4 / the room**.
+- **Who gave it to you matters.** Same badge, different meaning depending on which leader, when, and why. A badge from a clean leader vs. one bought from a dirty leader look identical — only insiders know the difference.
+- **Old badges are different.** The League redesigned badges after a scandal years ago. The hero's **old Badge 1 is a pre-reform design** — from before things went rotten. Rare, outdated, and quietly meaningful.
+- **The syndicate has its own "badges".** Marks, tokens, pins, a tattoo — *those* are unique, and they're the ones people really covet. Every crew/rank has one.
+- **Special issues.** Some leaders hand out rare, unofficial badges to their inner circle — a black version of the Gym badge that means "one of ours". Only a few exist.
+- **Lean into it as a theme.** Everyone has the same badge, the same uniform, the same face in the crowd — nobody can tell who's real. That's Infernal Affairs in one object.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
