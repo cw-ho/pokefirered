@@ -491,6 +491,26 @@ Uses the core mechanic (catching) to make the player complicit. Strong if rare a
   - **The loyalty test (strongest).** Yeo asks for a Pokémon **the player caught and nicknamed themselves**. The game uses its nickname afterwards, in a ledger, a receipt, or a line of dialogue.
 - **Consequences:** a hidden variable; refusing hurts syndicate trust, complying feeds the darker endings.
 
+#### Accept / reject, with consequences (new)
+Every one of these quests is a choice. Three options where it fits:
+
+| Choice | Short-term | Long-term |
+|---|---|---|
+| **Accept** | Money, syndicate trust, access to the next job | Darker endings unlocked; certain NPCs (Nadia, Seah, Mum) treat him colder; the Pokémon's name comes back later |
+| **Reject** | Lost money/trust; a beating or a demotion; someone else does the job anyway | Doors close in the syndicate; a dissident notices and opens a different door |
+| **Fake it** (where possible) | Hand over a different Pokémon, release the target, or tip someone off | Works for now; if discovered later, the fallout is worse than refusing would have been |
+
+Per-quest examples:
+- **Payment in kind.** Accept: the debtor's kid never speaks to Marcus again. Reject: Sam does it instead, and holds it over him. Fake: let it escape, and the debtor pays later in a different way.
+- **Mangrove poaching run.** Accept: syndicate trust up, Nadia sees him on the boat. Reject: dumped on the mudflats, walk home. Fake: sabotage the crates; the Pokémon get out, someone gets blamed.
+- **Bridgehead restaurant.** Accept: the menu scene. Reject: the buyer finds another catcher; the menu scene happens anyway, with a different name.
+- **The loyalty test.** Accept: the nicknamed Pokémon is gone for good, and its name shows up later. Reject: Yeo stops trusting him, and the Act 2 promotion is lost (a harder route). Fake: hand over a lookalike, and if Yeo finds out it becomes a key Act 3 betrayal beat.
+
+Rules:
+- **Consequences are delayed.** Make the player forget, then bring it back.
+- **No "right" answer.** Rejecting is never free; accepting is never just a reward.
+- **Track it** with story flags/variables (FireRed scripts support yes/no and multi-choice prompts).
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
