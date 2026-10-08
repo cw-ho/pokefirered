@@ -479,6 +479,18 @@ Possible act structure: each act dominated by a different force turning on him (
   - **Past Champions' Pokémon** — the missing Champions' old teams, posters in the League hall, a Hall of Fame that's really a memorial nobody knows about.
 - Tone note: this pulls the game from crime noir toward **sci-fi horror**. Could be the third-act rug pull (noir on the Island → horror Across), or too far — decide when filtering.
 
+### Quests: catch a wild Pokémon and hand it over to be killed (new)
+Uses the core mechanic (catching) to make the player complicit. Strong if rare and handled with restraint; cheap if routine.
+
+- **Grounding:** illegal wildlife trade: exotic meat, "medicine" made from parts, the pet trade, fighting rings. Pokémon canon already has Slowpoke tails sold as food (Gen 2).
+- **Rules:** one or two key moments, not a repeatable side quest. Never show the killing; show the aftermath (an empty crate, a receipt, a menu item). Always a choice, and the refusal costs something.
+- **Quest ideas:**
+  - **Payment in kind.** A debtor can't pay, so Yeo's crew takes his Pokémon instead. Marcus has to catch it when it flees.
+  - **The Mangrove poaching run.** Hush darts, sedated wild Pokémon, crates on a night boat. Marcus is the catcher.
+  - **The Bridgehead restaurant.** A back-room supplier wants a specific rare Pokémon. Later, it's on the menu.
+  - **The loyalty test (strongest).** Yeo asks for a Pokémon **the player caught and nicknamed themselves**. The game uses its nickname afterwards, in a ledger, a receipt, or a line of dialogue.
+- **Consequences:** a hidden variable; refusing hurts syndicate trust, complying feeds the darker endings.
+
 ### Riffs (unfiltered — from brainstorm)
 1. **The badge case.** Game opens with the hero finding Badge 1 in a drawer — case with seven empty slots. Each badge refills it. Final shot = the case, full or not, depending on the ending.
 2. **The rival's speeches.** Every time the rival takes credit there's a TV press conference describing what *you* did, with small lies. Later, one lie is how you realise something's wrong.
